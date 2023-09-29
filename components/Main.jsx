@@ -11,7 +11,7 @@ const main = () => {
       <div className='max-w-[1240px] w-full h-full flex justify-center p-2 items-center mx-auto'>
         <div className='mt-6' >
           <div className=' flex flex-col justify-center items-center pt-8 pb-4'>
-          <Image src='/assets/projects/me.jpg' alt='aditya yadav' height="200" width="200" className=' rounded-full object-cover object-top  ' />
+          <Image src='/assets/projects/Asad.jpg' alt='aditya yadav' height="200" width="200" className=' rounded-full object-cover object-top  ' />
           </div>
         <p className='uppercase text-sm tracking-widest text-gray-600 '>Let's build something together</p>
         <h2 className='py-2 text-gray-700 '>Hi, I'm <span className='text-[#5651e5]'>Asad!</span></h2>
