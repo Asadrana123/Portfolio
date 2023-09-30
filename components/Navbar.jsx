@@ -60,7 +60,6 @@ const Navbar = () => {
         'fixed left-[-100%] top-0  p-10 ease-in duration-500' }>
           <div>
             <div className='flex w-full items-center justify-between'>
-              <Image src="/assets/ay1.png" width='87' height='35' alt='/' />
               <div onClick={handleNav} className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer'>
                 <AiOutlineClose  />
               </div>
@@ -91,11 +90,13 @@ const Navbar = () => {
               <p className='uppercase tracking-widest text-[#5651e5]'>Let's connect</p>
              </div>
              <div className='flex items-center justify-between my-4 w-full sm:w[80%]'>
-              <Link href='https://www.linkedin.com/in/aditya-yadav-348052289/' className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'>
+              <Link href='https://www.linkedin.com/in/asad-rana-13b634203/' className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'>
                 <FaLinkedinIn/>
               </Link>
               <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'>
+                <Link href='https://github.com/Asadrana123?tab=repositories' className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'>
                 <FaGithub/>
+              </Link>
               </div>
               <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'>
                 <AiOutlineMail/>
