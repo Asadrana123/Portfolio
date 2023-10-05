@@ -27,10 +27,11 @@ const main = () => {
            <Link href='https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzBxqGCMSmgwBScTLzJVGnJtFzQNBFjZNpPpgPXkZRcBTJHvFNFZDDWnRVjmdzZgKmKtFDx' className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300' target='_blank'>
            <AiOutlineMail/>
            </Link>
+          <a href="https://drive.google.com/file/d/1DZr6ELaOb_6BitRBFVZRRpYdDXAR9uyb/view" target="_b">
            <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
-            <a href="https://drive.google.com/file/d/1DZr6ELaOb_6BitRBFVZRRpYdDXAR9uyb/view" target="_b">
-             <BsFillPersonLinesFill/></a>
+             <BsFillPersonLinesFill/>
            </div>
+            </a>
         </div>
         </div>
       </div>
