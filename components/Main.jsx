@@ -27,7 +27,7 @@ const main = () => {
            <Link href='https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzBxqGCMSmgwBScTLzJVGnJtFzQNBFjZNpPpgPXkZRcBTJHvFNFZDDWnRVjmdzZgKmKtFDx' className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300' target='_blank'>
            <AiOutlineMail/>
            </Link>
-          <a href="https://drive.google.com/file/d/1DZr6ELaOb_6BitRBFVZRRpYdDXAR9uyb/view" target="_b">
+          <a href="https://drive.google.com/file/d/1aMy_7x1A5P8Xsu115cdqzE7VsWq9ttOA/view?usp=share_link" target="_b">
            <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
              <BsFillPersonLinesFill/>
            </div>
