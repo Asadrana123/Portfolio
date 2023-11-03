@@ -1,9 +1,8 @@
 import React from "react";
-import Image from "next/image";
 import chatapp from "../public/assets/projects/chatpp.png";
 import social from "../public/assets/projects/social.png";
 import ProjectItem from "./ProjectItem";
-
+import ScreenSurfer from "../public/assets/projects/ScreenSurfer.png"
 const Projects = () => {
   return (
     <div id='projects' className="w-full">
@@ -15,6 +14,7 @@ const Projects = () => {
         <div className="grid md:grid-cols-2 gap-8">
           <ProjectItem title="Chat App" backgroundImg={chatapp} Url="https://chatappfrontend-phi.vercel.app" />
           <ProjectItem title="Social Media" backgroundImg={social} Url="https://social-media-bwsp.vercel.app/" />
+          <ProjectItem title="Screen Surfer" backgroundImg={ScreenSurfer} Url="https://screen-surfer.vercel.app/" />
         </div>
       </div>
     </div>
