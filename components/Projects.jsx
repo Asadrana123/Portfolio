@@ -12,8 +12,8 @@ const Projects = () => {
         </p>
         <h2 className="py-4">What I Have Built</h2>
         <div className="grid md:grid-cols-2 gap-8">
-          <ProjectItem title="Chat App" backgroundImg={chatapp} Url="https://chatappfrontend-phi.vercel.app" />
-          <ProjectItem title="Social Media" backgroundImg={social} Url="https://social-media-bwsp.vercel.app/" />
+          <ProjectItem title="Chat App" backgroundImg={chatapp} Url="https://chatwave-phi.vercel.app" />
+          <ProjectItem title="Social Media" backgroundImg={social} Url="https://linkup-bwsp.vercel.app/" />
           <ProjectItem title="Screen Surfer" backgroundImg={ScreenSurfer} Url="https://screen-surfer.vercel.app/" />
         </div>
       </div>
