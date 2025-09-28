@@ -14,7 +14,7 @@ const Projects = () => {
         <div className="grid md:grid-cols-2 gap-8">
           <ProjectItem title="Chat App" backgroundImg={chatapp} Url="https://chatwave-phi.vercel.app" />
           <ProjectItem title="Social Media" backgroundImg={social} Url="https://linkup-bwsp.vercel.app/" />
-          <ProjectItem title="Screen Surfer" backgroundImg={ScreenSurfer} Url="https://screen-surfer.vercel.app/" />
+          {/* <ProjectItem title="Screen Surfer" backgroundImg={ScreenSurfer} Url="https://screen-surfer.vercel.app/" /> */}
         </div>
       </div>
     </div>
