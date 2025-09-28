@@ -13,8 +13,8 @@ const About = () => {
         <p className='py-2 text-gray-600'>Currently, I am actively seeking opportunities to translate my passion and skills into a professional context. I am eager to contribute to innovative projects, collaborate with like-minded individuals, and continue my journey of growth and learning in the tech industry.
 
 Thank you for taking the time to learn more about me, and I look forward to the exciting challenges and opportunities that lie ahead in my career.</p>
-       <Link href='/#projects'className='py-2 cursor-pointer  text-[#5651e5] underline hover:ease-in duration-300'>checkout out my latest projects
-       </Link>
+       {/* <Link href='/#projects'className='py-2 cursor-pointer  text-[#5651e5] underline hover:ease-in duration-300'>checkout out my latest projects
+       </Link> */}
         </div>
         <div className='w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl p-4 items-center justify-center flex hover:scale-105 ease-in duration-300'>
           <Image className='rounded-lg' src="/assets/projects/about.jpg" width="390" height="170" alt="" />
