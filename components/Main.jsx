@@ -70,4 +70,4 @@ const main = () => {
   )
 }
 
-export default Main
+export default main
