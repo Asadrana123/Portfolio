@@ -18,20 +18,34 @@ const main = () => {
         <h2 className='py-2 text-gray-700'> Full-Stack developer</h2>
         <p className='text-gray-600 max-w-[70%] m-auto py-4'>I am a Mern Stack Developer with a passion for solving challenging Data Structures and Algorithms (DSA) problems. I have a strong track record of building impressive projects using Next.js. My expertise lies in creating efficient, scalable, and user-friendly web applications.</p>
         <div className='flex items-center py-4 justify-between max-w-[330px] m-auto'>
-           <Link href='https://www.linkedin.com/in/asad-rana-13b634203/' className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300' target='_blank'>
-            <FaLinkedin/>
-           </Link>
-           <Link href='https://github.com/Asadrana123?tab=repositories' className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300' target='_blank'>
-            <FaGithub/>
-           </Link>
-           <Link href='https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzBxqGCMSmgwBScTLzJVGnJtFzQNBFjZNpPpgPXkZRcBTJHvFNFZDDWnRVjmdzZgKmKtFDx' className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300' target='_blank'>
-           <AiOutlineMail/>
-           </Link>
-          <a href="https://drive.google.com/file/d/1aMy_7x1A5P8Xsu115cdqzE7VsWq9ttOA/view?usp=share_link" target="_b">
-           <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
-             <BsFillPersonLinesFill/>
-           </div>
-            </a>
+         <a
+  href="https://www.linkedin.com/in/connectasadrana/"
+  className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <FaLinkedin/>
+</a>
+<a
+  href="https://github.com/Asadrana123"
+  className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <FaGithub/>
+</a>
+  href="mailto:asadlukman246@gmail.com"
+  className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <AiOutlineMail/>
+</a>
+         <a href="https://drive.google.com/file/d/1l_WYCouT5Oiy4zcpckNPs7e36pcXToqF/view" target="_blank" rel="noopener noreferrer">
+  <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
+    <BsFillPersonLinesFill/>
+  </div>
+</a>
         </div>
         </div>
       </div>
