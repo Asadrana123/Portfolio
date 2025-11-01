@@ -62,7 +62,7 @@ const Contact = () => {
                     <AiOutlineMail />
                   </a>
                   <a
-                    href="https://drive.google.com/file/d/1aMy_7x1A5P8Xsu115cdqzE7VsWq9ttOA/view?usp=share_link"
+                    href="https://drive.google.com/file/d/1l_WYCouT5Oiy4zcpckNPs7e36pcXToqF/view"
                     className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300"
                     target="_blank"
                     rel="noopener noreferrer"
