@@ -25,9 +25,9 @@ const main = () => {
           <h2 className='py-2 text-gray-700'>
             Hi, I'm <span className='text-[#5651e5]'>Asad!</span>
           </h2>
-          <h2 className='py-2 text-gray-700'>Full-Stack developer</h2>
+          <h2 className='py-2 text-gray-700'>Front End Engineer</h2>
           <p className='text-gray-600 max-w-[70%] m-auto py-4'>
-            I am a Mern Stack Developer with a passion for solving challenging Data Structures and Algorithms (DSA) problems. I have a strong track record of building impressive projects using Next.js. My expertise lies in creating efficient, scalable, and user-friendly web applications.
+            I am a Front End Engineer with a passion for solving challenging Data Structures and Algorithms (DSA) problems. I have a strong track record of building impressive projects using Next.js. My expertise lies in creating efficient, scalable, and user-friendly web applications.
           </p>
           <div className='flex items-center py-4 justify-between max-w-[330px] m-auto'>
             <a
